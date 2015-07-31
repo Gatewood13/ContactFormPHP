@@ -30,10 +30,5 @@
 		        
 		</form>
 	</section>
-
-
-	<footer class="body">
-
-	</footer>
 </body>
 </html>
